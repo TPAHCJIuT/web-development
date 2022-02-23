@@ -1,8 +1,6 @@
 PROGRAM Information(INPUT, OUTPUT);
 USES
   DOS;
-VAR
-  name: STRING;
 BEGIN
   WRITELN('Content-Type: text/plain');
   WRITELN;
