@@ -19,5 +19,5 @@ BEGIN {PaulRevere}
         THEN
           WRITELN('The British are coming by air.')
         ELSE
-          WRITELN('The North Church shows only ''',Lanterns, '''.')
+          WRITELN('The North Church shows only ''', Lanterns, '''.')
 END. {PaulRevere}
