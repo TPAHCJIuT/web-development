@@ -5,4 +5,4 @@ while (!(strpos($text, '  ')))
 {
   $text = str_replace('  ', ' ', $text);
 }; 
-echo 'text:', $text;
+echo ('text: $text');
